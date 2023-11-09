@@ -22,8 +22,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/vijayarajv1704/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/121303741/3a103aee-77d1-43c2-a71b-19b25cf48e8e)
+
+### Name: VIJAYARAJ V
+### Register Number: 212222230174
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
